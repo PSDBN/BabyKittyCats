@@ -1,11 +1,9 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
-
 <head>
   <meta charset="utf-8">
   <title>🐈♥ The Tiny Kittens Personal site</title>
 </head>
-
 <body>
   <table cellspacing="20">
     <tr>
@@ -86,4 +84,3 @@
 <a href="Contact info.html">Contact Informatie</a>
 </body>
 </html>
-
