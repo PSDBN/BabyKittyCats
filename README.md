@@ -35,7 +35,7 @@
     <tbody>
       <tr>
         <td>01-0-5-2022</td>
-        <td>"De wij hebben meer ruimte nodig bond" opgericht</td>
+        <td>Started the "We Need More Space And We Need It Now!"union</td>
       </tr>
       <tr>
         <td>17-04-2022 till 27-05-2022</td>
@@ -55,7 +55,7 @@
         <td>😸😸😸😸😸</td>
     </tr>
     <tr>
-    <td>Eating something else than milk </td>
+    <td>Eating something other than milk </td>
       <td>😸</td>
     </tr>
     <tr>
