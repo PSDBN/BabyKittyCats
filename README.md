@@ -13,11 +13,10 @@
       <td>
         <h1>The Tiny Children</h1>
         <p>Hello world, we are four <strong>very</strong> <em>tiny</em> kittens.</p>
-        <p>Our Names are: <a href="Lampje.jpg">Lampje</a>, <a href="Grijsje.jpg">Grijsje</a>, <a href="Vlekje.jpg">Vlekje</a>, en <a href="Zwartje.jpg">Zwartje</a>. </p>
+        <p>Our Names are: <a href="Lampje.jpg">Lampje</a>, <a href="Grijsje.jpg">Grijsje</a>, <a href="Vlekje.jpg">Vlekje</a>, en <a href="Zwartje.jpg">Zwartje</a></p>
         <p>We were born on 17-04-2022.</p>
-        <p>We sadly don't know who our father is, but we have a <strong>wonderfull</strong> mom; <a href="Nala.jpg">Nala</a>
-          and a <em>beautiful</em> aunt; <a href="Noortje.jpg">Noortje</a>.</p>
-      </td>
+        <p>We sadly don't know who our father is, but we have a <strong>wonderfull</strong> mom; <a href="Nala.jpg">Nala</a> and a <em>beautiful</em> aunt; <a href="Noortje.jpg">Noortje</a>.</p>
+   </td>
     </tr>
   </table>
   <hr size:"3" noshade>
@@ -83,10 +82,8 @@
     <li>Trying to escape</li>
     <li>Playing, running, and climbing</li>
   </ul>
-
   <hr>
-  <a href="Contact info.html">Contact Informatie</a>
+<a href="Contact info.html">Contact Informatie</a>
 </body>
-
 </html>
 
