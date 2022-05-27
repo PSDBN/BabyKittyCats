@@ -52,8 +52,6 @@
   <table cellspacing="10">
     <tr>
       <td>
-        <table>
-        </table>
     <tr>
       <td>Sleeping </td>
       <td>😺😺😺😺😺</td>
@@ -83,7 +81,6 @@
       <td>😸😸😸😸😸</td>
     </tr>
   </table>
-
   <hr>
   <h3>Hobbies</h3>
   <ul>
@@ -98,3 +95,4 @@
 </body>
 
 </html>
+
