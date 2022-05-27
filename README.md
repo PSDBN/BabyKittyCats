@@ -49,27 +49,21 @@
   </table>
   <hr>
   <h3>Skills</h3>
-  <table cellspacing="10">
+  <table celspacing="10">
     <tr>
-      <td>
-    <tr>
-      <td>Sleeping </td>
+     <td>Sleeping</td>
       <td>😺😺😺😺😺</td>
-    <tr>
-      <td>Drinking Milk </td>
-
-      <td>😸😸😸😸😸</td>
-    </tr>
-
-    <tr>
-
-      <td>Eating something else than milk </td>
-      <td>
-        😸</td>
     </tr>
     <tr>
-
-      <td>Being <strong><em>very</em></strong> cute </td>
+      <td>Drinking Milk</td>
+        <td>😸😸😸😸😸</td>
+    </tr>
+    <tr>
+    <td>Eating something else than milk </td>
+      <td>😸</td>
+    </tr>
+    <tr>
+  <td>Being <strong><em>very</em></strong> cute</td>
       <td>😸😸😸😸😸😸</td>
     </tr>
     <tr>
