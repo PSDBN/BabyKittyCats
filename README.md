@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en" dir="ltr">
 <head>
   <meta charset="utf-8">
@@ -17,7 +16,7 @@
    </td>
     </tr>
   </table>
-  <hr size:"3" noshade>
+  <hr>
   <h3>Education</h3>
   <ol>
     <li>- Learn how to Play, <em> by Noortje</em></li>
